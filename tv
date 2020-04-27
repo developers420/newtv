@@ -46,11 +46,13 @@
 
         },
 
-            {
+
+
+{
 
 
 
-            "name": "GDNS Ludhiana (Devotional)",
+            "name": "Desi Tadka Tv",
 
 
 
@@ -62,7 +64,7 @@
 
 
 
-                "http://akalmultimedia.net:1935/gdnslive/gdns-live/chunklist.m3u8"
+                "http://ldt.ddns.me:8081/live/tadka/playlist.m3u8"
 
 
 
@@ -72,6 +74,9 @@
 
         },
 
+
+
+            
 
 
            {
@@ -238,7 +243,48 @@
 
 
 
+
+
+
+
+
+
+
         },
+
+
+
+
+{
+
+
+
+            "name": "GDNS Ludhiana (Devotional)",
+
+
+
+            "url": [
+
+
+
+               
+
+
+
+                "http://akalmultimedia.net:1935/gdnslive/gdns-live/chunklist.m3u8"
+
+
+
+            ]
+
+
+
+        },
+
+
+
+
+
 
 
 
