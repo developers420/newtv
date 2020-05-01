@@ -92,31 +92,7 @@
 
         },
 
-           {
-
-
-
-            "name": "Channel Y (Info)",
-
-
-
-            "url": [
-
-
-
-               
-
-
-
-                "http://cdn19.live247stream.com/channely/tv/playlist.m3u8"
-
-
-
-            ]
-
-
-
-        },
+           
 
 
 
@@ -323,7 +299,31 @@
 
 
 
+{
 
+
+
+            "name": "Channel Y (Info)",
+
+
+
+            "url": [
+
+
+
+               
+
+
+
+                "http://cdn19.live247stream.com/channely/tv/playlist.m3u8"
+
+
+
+            ]
+
+
+
+        },
 
 
 
