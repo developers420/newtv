@@ -189,6 +189,22 @@
 
 
 
+
+{
+
+            "name": "STEELBIRD MUSIC",
+
+            "url": [
+
+                "http://cdn25.live247stream.com/steelbirdmusic/tv/steelbirdmusic/stream1/chunks.m3u8"
+
+            ]
+
+        },
+
+
+
+
            {
 
 
@@ -608,17 +624,7 @@
 
         
 
-                {
-
-            "name": "STEELBIRD MUSIC",
-
-            "url": [
-
-                "http://cdn25.live247stream.com/steelbirdmusic/tv/steelbirdmusic/stream1/chunks.m3u8"
-
-            ]
-
-        },
+                
 
         {
 
