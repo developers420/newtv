@@ -238,6 +238,20 @@
 
 
 
+{
+
+            "name": "JHANJAR MUSIC",
+
+            "url": [
+
+               
+
+                "http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8"
+
+            ]
+
+        },
+
 
            {
 
@@ -898,19 +912,7 @@
 
         },
 
-        {
-
-            "name": "JHANJAR MUSIC",
-
-            "url": [
-
-               
-
-                "http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8"
-
-            ]
-
-        },
+        
 
         {
 
