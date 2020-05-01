@@ -203,7 +203,19 @@
         },
 
 
+{
 
+            "name": "HULCHUL TV",
+
+            "url": [
+
+                
+
+                "http://cdn12.henico.net:8080/live/jbani/index.m3u8"
+
+            ]
+
+        },
 
            {
 
@@ -732,19 +744,7 @@
 
         },
 
-        {
-
-            "name": "HULCHUL TV",
-
-            "url": [
-
-                
-
-                "http://cdn12.henico.net:8080/live/jbani/index.m3u8"
-
-            ]
-
-        },
+        
 
         {
 
