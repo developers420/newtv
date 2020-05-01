@@ -79,7 +79,17 @@
 
 
             
+{
 
+            "name": "PITAARA TV",
+
+            "url": [
+
+                "http://pitaaralive.planetcast.in/pitaaraTV/pitaaraTV.m3u8"
+
+            ]
+
+        },
 
            {
 
