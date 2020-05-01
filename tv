@@ -253,6 +253,34 @@
         },
 
 
+
+{
+
+            "name": "PUNJAB TV",
+
+            "url": [
+
+                "http://158.69.124.9:1935/5aabtv/5aabtv/chunklist_w642807911.m3u8"
+
+            ]
+
+        },
+
+        {
+
+            "name": "GAUNDA PUNJAB",
+
+            "url": [
+
+                "http://start.agmediachandigarh.com/gaundapunjab/tv/gaundapunjab/stream/chunks.m3u8"
+
+            ]
+
+        },
+
+
+
+
            {
 
 
@@ -650,30 +678,7 @@
 
         },
 
-        {
-
-            "name": "PUNJAB TV",
-
-            "url": [
-
-                "http://158.69.124.9:1935/5aabtv/5aabtv/chunklist_w642807911.m3u8"
-
-            ]
-
-        },
-
-        {
-
-            "name": "GAUNDA PUNJAB",
-
-            "url": [
-
-                "http://start.agmediachandigarh.com/gaundapunjab/tv/gaundapunjab/stream/chunks.m3u8"
-
-            ]
-
-        },
-
+        
         {
 
             "name": "PITAARA TV",
