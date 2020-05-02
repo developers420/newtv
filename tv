@@ -283,30 +283,161 @@
 
 
 
+{
 
-           {
-
-
-
-            "name": "Ankhila Punjab (Info)",
-
-
+            "name": "ZEE TV",
 
             "url": [
 
 
+                "https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8"
+            ]
 
-               
+        },
 
+
+{
+
+            "name": "ZEE Cinema",
+
+            "url": [
+
+
+                "https://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8"
+
+ ]
+
+        },
+
+
+
+{
+
+            "name": "ZEE BOLLYWOOD",
+
+            "url": [
+
+
+                "https://itpolly.iptv.digijadoo.net/live/zee_classic/chunks.m3u8"
+ 
+
+]
+
+        },
+
+
+
+{
+
+            "name": "STAR PLUS HD",
+
+            "url": [
+
+
+                "https://itpolly.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8"
+
+]
+
+        },
+
+
+
+{
+
+            "name": "STAR GOLD",
+
+            "url": [
+
+
+                "https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8"
+]
+
+        },
+
+
+
+{
+
+            "name": "Colors HD",
+
+            "url": [
+
+
+                "https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8"
+]
+
+        },
+
+
+{
+
+            "name": "Sony MaX2",
+
+            "url": [
+
+
+                "http://216.144.250.174/Sony_MaX_HD_02/playlist.m3u8"
+]
+
+        },
+
+
+{
+
+            "name": "Boogle Bollywood",
+
+            "url": [
+
+
+                "http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8"
+
+]
+
+        },
+
+
+{
+
+            "name": "D Sport",
+
+            "url": [
+
+
+                "http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD.m3u8"
+
+]
+
+        },
+
+
+{
+
+            "name": "DD News",
+
+            "url": [
+
+
+                "http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8"
+]
+
+        },
+
+
+
+
+
+
+           {
+
+            "name": "Ankhila Punjab (Info)",
+
+            "url": [
 
 
                 "http://stream.ankhilapunjabtv.com/ankhilapunjabz/rbstreamrb.m3u8"
 
 
-
             ]
-
-
 
         },
 
