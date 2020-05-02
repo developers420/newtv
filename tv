@@ -424,7 +424,17 @@
 
 
 
+{
 
+            "name": "News 24",
+
+            "url": [
+
+
+                "https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/chunks.m3u8"
+]
+
+        },
 
 
            {
